@@ -1,1 +1,1 @@
-DjangoCRM
+Python-DjangoCRM
